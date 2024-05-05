@@ -68,7 +68,7 @@
     "temp-dir": "^2.0.0",
     "username": "^5.1.0",
     "winston": "^3.13.0",
-    "winston-daily-rotate-file": "^4.5.0"
+    "winston-daily-rotate-file": "^4.7.1"
   },
   "devDependencies": {
     "@creativebulma/bulma-divider": "^1.1.0",
