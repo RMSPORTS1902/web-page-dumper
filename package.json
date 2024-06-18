@@ -60,7 +60,7 @@
     "os-utils": "0.0.14",
     "ps-list": "^7.2.0",
     "pug": "^3.0.2",
-    "puppeteer": "^5.5.0",
+    "puppeteer": "^22.6.4",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.6.5",
     "puppeteer-page-proxy": "^1.2.8",
