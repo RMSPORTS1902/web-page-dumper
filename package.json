@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "body-parser": "^1.19.0",
-    "cheerio": "^1.0.0-rc.10",
+    "cheerio": "^1.0.0",
     "clean-css": ">=4.1.11",
     "color-string": ">=1.9.1",
     "clean-css": ">=5.3.3",
